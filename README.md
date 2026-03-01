@@ -5,7 +5,6 @@ A recipe management app built with Flutter featuring a dark UI, smart search, an
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-6C63FF?style=for-the-badge)](https://flutter.dev)
-[![License](https://img.shields.io/badge/License-MIT-FF8C42?style=for-the-badge)](LICENSE)
 
 ---
 
@@ -80,12 +79,7 @@ lib/
 
 ---
 
-## License
+## Author
 
-MIT License — free to use, modify and distribute.
-
----
-
-<div align="center">
-  <sub>Give it a star if you found it useful!</sub>
-</div>
+**Eman Noor**  
+[![GitHub](https://img.shields.io/badge/GitHub-emannoor--cs-181717?style=for-the-badge&logo=github)](https://github.com/emannoor-cs)
