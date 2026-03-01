@@ -13,12 +13,11 @@ A recipe management app built with Flutter featuring a dark UI, smart search, an
 
 | Home | Recipe Detail | Add Recipe |
 |------|--------------|------------|
-| ![Home](assets/screenshots/home.jpeg) | ![Detail](assets/screenshots/detail.jpeg) | ![Add](assets/screenshots/add_recipe.jpeg) |
+| <img src="assets/screenshots/home.jpeg" width="200"> | <img src="assets/screenshots/detail.jpeg" width="200"> | <img src="assets/screenshots/add_recipe.jpeg" width="200"> |
 
 | Favorites | Settings |
 |-----------|----------|
-| ![Favorites](assets/screenshots/favorites.jpeg) | ![Settings](assets/screenshots/settings.jpeg) |
-
+| <img src="assets/screenshots/favorites.jpeg" width="200"> | <img src="assets/screenshots/settings.jpeg" width="200"> |
 ---
 
 ## Features
