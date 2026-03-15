@@ -14,9 +14,9 @@ A recipe management app built with Flutter featuring a dark UI, smart search, an
 |------|--------------|------------|
 | <img src="assets/screenshots/home.jpeg" width="200"> | <img src="assets/screenshots/details.jpeg" width="200"> | <img src="assets/screenshots/addrecipe.jpeg" width="200"> |
 
-| Favorites | Settings |
-|-----------|----------|
-| <img src="assets/screenshots/favourites.jpeg" width="200"> | <img src="assets/screenshots/settings.jpeg" width="200"> |
+| Favorites | Settings | Search |
+|-----------|----------|--------|
+| <img src="assets/screenshots/favourites.jpeg" width="200"> | <img src="assets/screenshots/settings.jpeg" width="200"> | <img src="assets/screenshots/search-bar.jpeg" width="200"> |
 ---
 
 ## Features
